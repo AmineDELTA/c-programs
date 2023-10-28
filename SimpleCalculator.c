@@ -10,7 +10,7 @@ int main()
     double num2;
     double result;
 
-    printf("\n Pls Entrer an operator from the following list (+ - * /) : ");
+    printf("\n Pls entrer an operator from the following list (+ - * /) : ");
     scanf("%c", &operator);
 
     printf("Enter your first number : ");

@@ -5,7 +5,7 @@ int main()
     int numDgt, number, rem, mul = 1, cnt, result = 0;
     for (;;)
     {
-        printf("Enter a number : ");
+        printf("Enter a number: ");
         scanf("%d", &number);
         result = 0;
         int n = number;

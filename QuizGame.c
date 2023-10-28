@@ -18,7 +18,7 @@ int main()
     int score;
     score = 0;
 
-    printf("QUIZ GAME !\n");
+    printf("QUIZ GAME !!\n");
 
     for (int i = 0; i < numberOFquestions; i++)
     {

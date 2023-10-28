@@ -114,7 +114,6 @@ void PlayerMove()
 
 void ComputerMove()
 {
-
    int x;
    int y;
 
